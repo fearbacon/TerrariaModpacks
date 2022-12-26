@@ -1,3 +1,4 @@
 # TerrariaModpacks
-Modpacks can be installed by going to your tmodloader modpacks folder typically found in ...\Documents\My Games\Terraria\tModLoader\Mods\ModPacks
-Extract the folder to the Modpacks directory. If the directory doesn't exist create one called Modpacks
+Some mod in the pack are to large to export to github so a list of mods is included.\
+Some of these mods are very much not compatible and can cause issues (specifically ArmentDisplay from our playthrough).
+You have been warned!
